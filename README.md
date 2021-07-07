@@ -1,1 +1,1 @@
-# sql-challenge - Performed data modeling by use of SQL
+# sql-challenge - Performed data modeling by the use of SQL
